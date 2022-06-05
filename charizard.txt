@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 charizard es un pokemon tipo fuego, es la evolucion de charmilion, el cual es la evolucion de charmander. Ash tuvo un charizard
+=======
+charizard es un pokemon tipo fuego
+Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.
+>>>>>>> db5c5816b4d5e00a00773940caab2552a247f4d3
